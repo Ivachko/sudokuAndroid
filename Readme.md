@@ -12,7 +12,7 @@ Development of a sudoku game on android as part of an android workshop
 Thank you for your interest in this project! 
 
 Once the installed project and your written changes, consider **adding tests** to ensure their integrity.
-Run the tests locally with a `npm test` to make sure you didn't break anything.
+Run the tests locally with a `gradle test` to make sure you didn't break anything.
 
 Then do a pull request with a description of what your changes are making, a CoreTeam member will review and come back to you if necessary or incorporate your changes into the code.
 
