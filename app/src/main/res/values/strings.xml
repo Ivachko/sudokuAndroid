@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">sudokuAndroid</string>
+    <string name="niveau_1">Niveau 1</string>
+    <string name="niveau_2">Niveau 2</string>
 </resources>
