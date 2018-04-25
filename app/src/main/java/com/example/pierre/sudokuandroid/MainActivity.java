@@ -26,10 +26,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         Intent intention = new Intent(this,chooseGridActivity.class);
         if(view == level1B){
-            intention.putExtra("level",1);
+            intention.putExtra("level","1");
         }
         if(view == level2B){
-            intention. putExtra("level",2);
+            intention.putExtra("level","2");
         }
         startActivity(intention);
     }
